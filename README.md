@@ -1,9 +1,9 @@
 # Hommy-Tiles-Hardware-Store-Profitability-Prediction
 
 
-# Hommy-Tiles Hardware-Store-Profitability-Prediction
+# Profit/Loss Prediction for Retail Business Using Historical Data
 
-This project predicts the profitability of a Nairobi based hardware store for Q1 2025 using simulated sales and operational data. It involves data analysis, machine learning models, and data security implementation to safeguard sensitive business information.
+This project predicts the profitability of a Nairobi based hardware store for Q1 2024 using simulated sales and operational data. It involves data analysis, machine learning models, and data security implementation to safeguard sensitive business information.
 
 ## Key Features
 - Simulate sales, expenses, and operational data for the past three months.
